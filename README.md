@@ -1,0 +1,2 @@
+# ksseh
+KassenSystemEinzelHandel
